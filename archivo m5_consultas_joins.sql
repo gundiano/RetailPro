@@ -65,3 +65,5 @@ FROM DBO.VENTAS AS v
  ) AS Consolidado
  GROUP BY canal;
 
+
+
